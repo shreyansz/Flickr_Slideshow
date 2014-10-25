@@ -10,7 +10,7 @@ Installation
 
 * Open index.html in your web browser.
 * Enter phot tag like dogs, hd etc.
-* View the image slideshow.  
+* View the slideshow.  
 
 
 [Learning Web App Development]:http://shop.oreilly.com/product/0636920030621.do
